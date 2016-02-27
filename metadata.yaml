@@ -1,0 +1,22 @@
+_repo: Aeroplanes_1445
+creator:
+  author:
+    agent_name: Zerbe, James Slough
+    alias: Zerbe, J. S.
+    birthdate: 1850
+    gutenberg_agent_id: '635'
+    url: http://www.gutenberg.org/2009/agents/635
+description: ''
+gutenberg_issued: '1998-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1445'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TL'
+- !lcsh 'Airplanes'
+title: Aeroplanes
+url: http://www.gutenberg.org/ebooks/1445
